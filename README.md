@@ -1,4 +1,4 @@
-# ecology
+# Ecology
 Project to showcase the Ecology project
 
 ### To start the project 
