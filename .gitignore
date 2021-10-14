@@ -1,0 +1,6 @@
+# dependencies
+/frontend/frontendapp/node_modules
+/backend/node_modules
+
+
+/backend/.env
