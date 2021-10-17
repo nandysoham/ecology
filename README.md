@@ -47,7 +47,7 @@ Please Check Yours too!.. Mine is working fine
 
 Updates - 17th Oct 
 
-404 Page added--
+404 Page added-- (Using full custom designing)
 ![image](https://user-images.githubusercontent.com/67374926/137639639-9443149e-89ab-4949-9053-63c6543a5fd1.png)
 
-Updates - 17th Oct 
+
