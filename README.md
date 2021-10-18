@@ -45,3 +45,9 @@ Please Check Yours too!.. Mine is working fine
 ![image](https://user-images.githubusercontent.com/67374926/137593776-c6f740f8-4204-4f31-ba33-bddc6d9cf39a.png)
 ![image](https://user-images.githubusercontent.com/67374926/137593788-d0bbdc42-04e7-4577-a3c1-66d1b033b1aa.png)
 
+Updates - 17th Oct 
+
+404 Page added-- (Using full custom designing)
+![image](https://user-images.githubusercontent.com/67374926/137639639-9443149e-89ab-4949-9053-63c6543a5fd1.png)
+
+
