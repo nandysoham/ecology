@@ -55,5 +55,9 @@ Updates = 18th Oct
 
 login endpoints connected with frontend
 
+without logiging in --
+![image](https://user-images.githubusercontent.com/67374926/137724702-35939dc4-8d8a-4721-b0bd-bd5619a2142e.png)
+
+with logging in
 ![image](https://user-images.githubusercontent.com/67374926/137724505-eaac3745-2982-43d4-afef-4cd2599974ab.png)
 
