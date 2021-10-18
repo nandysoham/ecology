@@ -51,3 +51,9 @@ Updates - 17th Oct
 ![image](https://user-images.githubusercontent.com/67374926/137639639-9443149e-89ab-4949-9053-63c6543a5fd1.png)
 
 
+Updates = 18th Oct
+
+login endpoints connected with frontend
+
+![image](https://user-images.githubusercontent.com/67374926/137724505-eaac3745-2982-43d4-afef-4cd2599974ab.png)
+
