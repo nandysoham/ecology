@@ -16,6 +16,17 @@ Cheers🤘
 
 
 ## Updates:
+Updates - 26/10/2021
+
+Blog Page fully functional and good to go
+![image](https://user-images.githubusercontent.com/67374926/138880971-f21ce4e2-8195-450c-af01-05db13f68bfd.png)
+
+![image](https://user-images.githubusercontent.com/67374926/138881025-c852933e-8ff2-4c4c-b514-67e8f085921e.png)
+
+
+
+
+
 <br>
 <br>
  Blogs Page ready for show ... some minor changes required!
@@ -60,4 +71,6 @@ without logiging in --
 
 with logging in
 ![image](https://user-images.githubusercontent.com/67374926/137724505-eaac3745-2982-43d4-afef-4cd2599974ab.png)
+
+
 
